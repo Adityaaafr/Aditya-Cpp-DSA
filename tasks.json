@@ -1,0 +1,19 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "build",
+            "type": "shell",
+            "command": "g++",
+            "args": [
+                "-std=c++17",
+                "${file}",
+                "-o",
+                "${fileDirname}\\a.exe"
+            ],
+            "group": "build",
+            "problemMatcher": ["$gcc"],
+            "detail": "Compile with g++"
+        }
+    ]
+}
