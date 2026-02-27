@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "d:/SEM-5/DSA AND STUFF",
-      "program": "d:/SEM-5/DSA AND STUFF/build/Debug/outDebug",
+      "cwd": "d:/SEM-5/DSA AND STUFF/recursion",
+      "program": "d:/SEM-5/DSA AND STUFF/recursion/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
